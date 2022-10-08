@@ -13,6 +13,17 @@ Datatypes means to decide which type of information we want to use in our progra
 
 ![DiffDataype](./Images/DiffDataype.PNG)
 
+# Datatype: 
+1. Built in Datatypes: 
+Built-in Data types are those data types that are pre-defined by the programming language.
+
+2. Derived Datatypes: 
+Those data type complete its meaning with another datatype called as Derived Datatypes.
+
+3. User Defined Datatypes: 
+those datatypes are defined by user for its own purpose called user defined datatypes.
+
+
 ![DiffDataTypesInDiffCompliers](./Images/DiffDataTypesInDiffCompliers.PNG)
 
 # Memory: 
