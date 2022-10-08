@@ -52,4 +52,4 @@ if int = 4 byte
 it helps to measure size of variable.
 
 # Limit Header file
-this hedear file include methods that help us to find range on datatypes
+this hedear file include methods that help us to find range of datatypes
