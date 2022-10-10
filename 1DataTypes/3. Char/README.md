@@ -11,7 +11,7 @@
 ### 2. Unsigned Char
     Byte: 1 bytes (In every Compiler)
     Range: -128 to 127
-    Format specifier: %lf
+    Format specifier: %c
     Use: unsigned char;
 
 
