@@ -1,6 +1,6 @@
 # Using limits.h 
 
-    ````
+    ```
     #include <stdio.h>
     #include <limits.h>
 
@@ -27,11 +27,11 @@
        return(0);
     }
 
-    ````
+    ```
 
 Let us compile and run the above program that will produce the following result −
 
-````
+```
 The number of bits in a byte 8
 The minimum value of SIGNED CHAR = -128
 The maximum value of SIGNED CHAR = 127
