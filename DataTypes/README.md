@@ -1,6 +1,6 @@
 # Using limits.h 
 
-    ```
+```
     #include <stdio.h>
     #include <limits.h>
 
@@ -27,7 +27,7 @@
        return(0);
     }
 
-    ```
+```
 
 Let us compile and run the above program that will produce the following result −
 
