@@ -1,6 +1,6 @@
 ## Note: We are considering a tcc and gcc compiler here, Size and Range of DataType is totally depend on Compiler.
 
-## There are 4 types of int datatype:
+## There are 3 types of float datatype:
 
 ### 1. Float
     Byte: 4 bytes (In every Compiler)
