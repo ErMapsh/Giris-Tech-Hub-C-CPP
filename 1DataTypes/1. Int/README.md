@@ -1,5 +1,4 @@
-## Note: We are considering a tcc and gcc compiler here
-
+## Note: We are considering a tcc and gcc compiler here,Size and Range of DataType is totally depend on Compiler
 
 ## There are 4 types of int datatype:
 There is no difference between Integer and Short Integer
