@@ -26,7 +26,7 @@ those datatypes are defined by user for its own purpose called user defined data
 
 ![DiffDataTypesInDiffCompliers](./Images/DiffDataTypesInDiffCompliers.PNG)
 
-# Memory: 
+## Memory: 
 bit and byte is unit of memory measure.
 1. 1 bit = block of memory
 2. 4 bit = nible
@@ -36,10 +36,10 @@ bit and byte is unit of memory measure.
 
 ## Note : Therefore 1KB must equal 1024 Bytes, 1MB must equal 1048576 Bytes (1024x1024) etc.
 
-# Datatype Range
+## Datatype Range
 ![Datatype Range](./Images/Datatype.PNG)
 
-# Calculating Range of Varible
+## Calculating Range of Varible
 if int = 4 byte
 1 byte = 8 bit 
 4 byte = 32 bit
