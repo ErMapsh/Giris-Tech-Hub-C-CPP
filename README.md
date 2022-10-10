@@ -55,7 +55,7 @@ it helps to measure size of variable.
 this hedear file include methods that help us to find range of datatypes
 
 
-# Varible:
+# Variable:
 Variable means if we create the variable in programme then system
 Allocate the block for that variable in memory as per its type.
 
