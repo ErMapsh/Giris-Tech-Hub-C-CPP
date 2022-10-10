@@ -1,10 +1,9 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
-{
-	unsigned int a = 454;
+void main(){
+	short int a = 3;
 	clrscr();
-	printf("%u", a);
+	printf("a is %d", a);
 	getch();
 }
