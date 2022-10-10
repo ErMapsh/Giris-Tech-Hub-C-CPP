@@ -4,7 +4,9 @@
 int main(){
 	int a, b, c; // allcating memory in ram, we can also called that declaration of variable
 
-	clrscr(); // clearing the previous console screen
+	/* clearing the previous console screen, 
+	usually we use this in TURBO c++ but not here no need */
+	// clrscr(); 
 
 	printf("Enter a: ");
 	scanf("%d", &a); /* getting input from user, input should be compatible with fromat specifier
@@ -16,7 +18,8 @@ int main(){
 	c = a%b; // operand opearator operand 
 	printf("Reminder is %d", c);
 
-	getch(); /* after execution of program, we have to press any key to exit console, this all. in another word getch() pauses the Output Console until a key is pressed */
+	/* after execution of program, we have to press any key to exit console, this all. in another word getch() pauses the Output Console until a key is pressed */
+	//getch(); 
 
 
 	return 0;
