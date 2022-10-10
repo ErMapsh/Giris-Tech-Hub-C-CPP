@@ -13,7 +13,7 @@ Datatypes means to decide which type of information we want to use in our progra
 
 ![DiffDataype](./Images/DiffDataype.PNG)
 
-# Datatype: 
+# ---------Datatype--------- 
 1. Built in Datatypes: 
 Built-in Data types are those data types that are pre-defined by the programming language.
 
@@ -55,7 +55,7 @@ it helps to measure size of variable.
 this hedear file include methods that help us to find range of datatypes
 
 
-# Variable:
+# ---------Variable---------
 Variable means if we create the variable in programme then system
 Allocate the block for that variable in memory as per its type.
 
