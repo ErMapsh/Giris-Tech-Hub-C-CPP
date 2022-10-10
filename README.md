@@ -34,7 +34,7 @@ bit and byte is unit of memory measure.
 4. 16 bit = 1 word
 5. 1024 byte = 1Kb
 
-##### Note : Therefore 1KB must equal 1024 Bytes, 1MB must equal 1048576 Bytes (1024x1024) etc.
+## Note : Therefore 1KB must equal 1024 Bytes, 1MB must equal 1048576 Bytes (1024x1024) etc.
 
 # Datatype Range
 ![Datatype Range](./Images/Datatype.PNG)
