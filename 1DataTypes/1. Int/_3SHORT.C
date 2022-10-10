@@ -1,9 +1,14 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
+int main(){
 	short int a = 3;
+
 	clrscr();
+
 	printf("a is %d", a);
+
 	getch();
+	
+	return 0;
 }

@@ -1,10 +1,15 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
+int main()
 {
 	unsigned int a = 454;
+
 	clrscr();
+
 	printf("%u", a);
+	
 	getch();
+
+	return 0;
 }

@@ -1,6 +1,8 @@
 ## Note: We are considering a tcc and gcc compiler here
 
+
 ## There are 4 types of int datatype:
+There is no difference between Integer and Short Integer
 ### 1. Integer
     Byte: 2 or 4 byte
     Range: -32,768 to 32,767 or -2,147,483,648 to 2,147,483,647
