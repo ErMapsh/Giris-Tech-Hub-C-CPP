@@ -6,5 +6,7 @@
 5. Assignment Operators
 6. Ternary Operator
 
+- [GFG](https://www.geeksforgeeks.org/data-types-in-c/)
+- [GFG](https://www.geeksforgeeks.org/c-data-types/)
 
 ![operators](https://media.geeksforgeeks.org/wp-content/uploads/20220913163743/OperatorsinC.jpg)

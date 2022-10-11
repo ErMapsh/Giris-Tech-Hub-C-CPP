@@ -4,7 +4,7 @@ Assignment operators are used to assign value to a variable. The left side opera
 
 Different types of assignment operators are shown below:
 
-# 1.  “=”
+# 1.Equal to assignment “=”
 
 This is the simplest assignment operator. This operator is used to assign the value on the right to the variable on the left.
 
@@ -17,7 +17,7 @@ This is the simplest assignment operator. This operator is used to assign the va
 
 ```
 
-# 2. “+=”
+# 2.Addition assignment “+=”
    This operator is the combination of the ‘+’ and ‘=’ operators. This operator first adds the current value of the variable on left to the value on the right and then assigns the result to the variable on the left.
 
 ### Example:# 
@@ -28,7 +28,7 @@ This is the simplest assignment operator. This operator is used to assign the va
 
 ```
 
-# 3. “-=”
+# 3.Subtraction assignment“-=”
    This operator is a combination of ‘-‘ and ‘=’ operators. This operator first subtracts the value on the right from the current value of the variable on left and then assigns the result to the variable on the left.
 
 ### Example:
@@ -38,7 +38,7 @@ This is the simplest assignment operator. This operator is used to assign the va
     If initially value stored in a is 8. Then (a -= 6) = 2.
 ```
 
-# 4. “*=”
+# 4.Multiplication assignment “*=”
    This operator is the combination of the ‘+’ and ‘=’ operators. This operator first adds the current value of the variable on left to the value on the right and then assigns the result to the variable on the left.
 
 ### Example:
@@ -48,7 +48,7 @@ This is the simplest assignment operator. This operator is used to assign the va
     If initially, the value stored in a is 5. Then (a *= 6) = 30.
 ```
 
-# 5. “/=”
+# 5.Division assignment “/=”
    This operator is a combination of the ‘/’ and ‘=’ operators. This operator first divides the current value of the variable on left by the value on the right and then assigns the result to the variable on the left.
 
 ### Example:
