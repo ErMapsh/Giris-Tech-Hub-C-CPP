@@ -33,6 +33,7 @@ bit and byte is unit of memory measure.
 3. 8 bit = 1 byte
 4. 16 bit = 1 word
 5. 1024 byte = 1Kb
+6. 1 byte = 1 letter
 
 ### Note : Therefore 1KB must equal 1024 Bytes, 1MB must equal 1048576 Bytes (1024x1024) etc.
 
@@ -43,6 +44,7 @@ bit and byte is unit of memory measure.
 if int = 4 byte
 1 byte = 8 bit 
 4 byte = 32 bit
+
 
 2^(32-1) = 2147483648;
 
