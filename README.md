@@ -25,7 +25,6 @@ those datatypes are defined by user for its own purpose called user defined data
 
 ![DiffDataTypesInDiffCompliers](./Images/DiffDataTypesInDiffCompliers.PNG)
 
-## Datatypes:
 ### Memory: 
 bit and byte is unit of memory measure.
 1. 1 bit = block of memory
