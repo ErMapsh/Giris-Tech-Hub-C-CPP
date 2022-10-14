@@ -20,8 +20,6 @@ int main(){
     sum += rem; // ----> 5 + 1 = 6
     a /= 10; // ---> 1 / 10 = 0
 
-
-    
     printf("Sum is %d", sum);
     return 0;   
 }
