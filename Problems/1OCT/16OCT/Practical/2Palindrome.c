@@ -1,14 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(void){
+int main(void)
+{
     int num, temp, rem, rev = 0;
-    printf("Enter a number: "); 
+    printf("Enter a number: ");
     scanf("%d", &num);
     temp = num;
 
     // first step
     rem = temp % 10;
-    rev = rev + rem*1;
+    rev = rev + rem * 1;
     temp = temp / 10;
 
     // second step
@@ -21,7 +22,7 @@ int main(void){
     rev = rev + rem * 100;
     temp = temp / 10;
 
-    printf(num == rev ? "%d is palindrome number\n": "%d is not palindrome number\n", num);
+    printf(num == rev ? "%d is palindrome number\n" : "%d is not palindrome number\n", num);
 
     return 0;
 }
