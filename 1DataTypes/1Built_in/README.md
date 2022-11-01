@@ -46,3 +46,27 @@ The maximum value of CHAR = 127
 The minimum value of LONG = -9223372036854775808
 The maximum value of LONG = 9223372036854775807
 ```
+
+
+
+## Find range: 
+```
+    Formulas
+    The formulas for a signed number with N bits (using two's complement) are
+
+    min = -1 * 2N - 1
+    max = 2N - 1 - 1
+    The formulas for an unsigned number with N bits are
+
+    min = 0
+    max = 2N - 1
+    Example: 8-bit char
+    The char has N = 8 bits. Let's verify these formulas with signed char and   unsigned char.
+
+    signed char
+    min = -1 * 2N - 1 = -1 * 27 = -128
+    max = 2N - 1 - 1 = 27 - 1 = 127
+    unsigned char
+    min = 0
+    max = 2N - 1 = 28 - 1 = 255
+```
