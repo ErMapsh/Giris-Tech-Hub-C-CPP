@@ -74,7 +74,7 @@ Left shift operator shifts all bits towards left by a certain number of specifie
     212<<4 = 110101000000 (In binary) =339      2(In decimal)
 ```
 
-# 6. Right Shift (<<)
+# 6. Right Shift (>>)
 
 Right shift operator shifts all bits towards right by certain number of specified bits. It is denoted by >>.
 
