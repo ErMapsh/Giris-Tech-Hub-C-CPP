@@ -1,0 +1,7 @@
+Write a C program to input number and check the following  cases 
+
+case 1:  swap the two number
+case 2:   to check number is palidrome or not
+case 3:    find the cube of number using power function
+case 4:    to print total number  days  using switch case 
+case 5:   program to check whether a number is positive, negative or zero using switch case
