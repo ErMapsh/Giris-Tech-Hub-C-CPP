@@ -12,7 +12,7 @@ int main()
         printf("%d ", c);
         a = b;
         b = c;
-    }
+    }   
 
     return 0;
 }
