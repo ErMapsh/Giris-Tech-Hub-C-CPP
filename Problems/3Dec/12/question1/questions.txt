@@ -1,0 +1,12 @@
+Oct/Nov
+   Today's task
+      12-12-2022
+
+1. Write a c program to reverse the given array
+2. Write a c program to check whether a given number is present in given array (take array as input and number to be checked as input)
+
+3. Write a c program to count how many times a number occured in array
+
+4. Write a c program to delete a number(element) from array
+
+5. Write a c program to insert a number in array at given index

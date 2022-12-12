@@ -1,0 +1,65 @@
+1) . Write a program in C to merge two arrays of same size sorted in decending order.
+
+Test Data :
+Input the number of elements to be stored in the first array :3
+Input 3 elements in the array :
+element - 0 : 1
+element - 1 : 2
+element - 2 : 3
+
+Input the number of elements to be stored in the second array :3
+Input 3 elements in the array :
+element - 0 : 1
+element - 1 : 2
+element - 2 : 3
+Expected Output :
+The merged array in decending order is :
+3 3 2 2 1 1
+
+
+
+2)Write a C program to count total number of negative elements in an array.
+Input
+
+Input array elements : 10, -2, 5, -20, 1, 50, 60, -50, -12, -9
+Output
+
+Total number of negative elements: 5
+
+
+3)Write a C program to delete all duplicate elements from an array. 
+
+Input
+
+Input array elements: 10, 20, 10, 1, 100, 10, 2, 1, 5, 10
+Output
+
+After removing all duplicate elements
+Elements of array are: 10, 20, 1, 100, 2, 5
+
+
+4)Write a C program to input elements in array and print all unique elements in array.
+Input
+
+Input array elements: 1, 2, 3, 5, 1, 5, 20, 2, 12, 10
+Output
+
+All unique elements in the array are: 3, 20, 12, 10
+
+
+5)Write a C program to enter elements in two matrices and check whether both matrices are equal or not. C
+
+Input
+
+Input elements of matrix1:
+1 2 3
+4 5 6
+7 8 9
+
+Input elements of matrix2:
+1 2 3
+4 5 6
+7 8 9
+Output
+
+Both matrices are equal
