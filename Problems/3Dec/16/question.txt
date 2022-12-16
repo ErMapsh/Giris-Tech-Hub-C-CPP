@@ -1,0 +1,5 @@
+Write a C program to print all natural numbers between 1 to n using recursion.
+Write a C program to print all even or odd numbers in given range using recursion.
+Write a C program to find sum of all natural numbers between 1 to n using recursion.
+Write a C program to find sum of all even or odd numbers in given range using recursion.
+Write a C program to find reverse of any number using recursion.

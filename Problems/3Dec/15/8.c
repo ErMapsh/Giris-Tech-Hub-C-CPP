@@ -49,6 +49,5 @@ int findLen(int x)
         len++;
         x /= 10;
     }
-
     return len;
 }
